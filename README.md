@@ -1,4 +1,4 @@
-## Hi there 👋
+## Sou o Andrey, estou estudando programação nas aulas de tecnologia da escola 👋
 
 <!--
 **pocoyo010203/pocoyo010203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
